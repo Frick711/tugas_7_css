@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-image: url("../../../Documents/Unnamed Site 2/Stupa_Borobudur.jpg");
+	background-size:cover;}
+div{text-align: justify;
+	background-image:url("../../../Documents/Unnamed Site 2/avocado.jpg");
+	height: 500px;
+	width:500px;
+	align-content: center;
+	margin: 0 auto;
+	border: medium red solid;
+}
+div.repeat{background-repeat: repeat-x}
